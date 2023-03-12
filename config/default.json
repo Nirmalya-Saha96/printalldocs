@@ -1,4 +1,4 @@
 {
-    "mongoURL": "",
+    "mongoURL": "mongodb+srv://nirmalya:cSW75xPqFmSfPKX7@aquil-project.41xgx.mongodb.net/aquilDB",
     "jwtSecret": "mySecretToken"
 }
